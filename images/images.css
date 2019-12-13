@@ -1,0 +1,32 @@
+body  {
+
+padding-right: 100px;
+}
+
+h2 {
+  font-size:130%; 
+ }
+
+h2.xiao {
+   color: grey;
+}
+h2.Mei {
+   color: purple;
+  }
+
+h2.chuying
+ {
+color: blue;
+}
+
+h2.baozhu {
+
+   color: black;
+  }
+
+
+
+h2.huoying {
+
+color: red;
+}
