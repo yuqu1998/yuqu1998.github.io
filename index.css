@@ -1,0 +1,47 @@
+@font-face {
+	font-family: "Emblema One";
+	src: url(Regular.woff), 
+	      url(EmblemaOne-Regular.ttf); 
+}
+   
+
+
+body { 
+        background-color: #d2b48c;
+        margin-left: 20%;
+        margin-right: 20%;
+        border-size: medium;
+        border-style: dotted;
+        padding: 3%;
+        font-family:Verdana, Geneva, Arial, sans-serif;
+        font-size: medium;
+        font-weight: normal;
+        line-height: 1.6em;
+  }
+
+
+#questions {
+    line-height: 1.9em;
+    font-style: italic;
+    color: #444444;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    border-color: white;
+    border-width: medium;
+    border-style: dashed;
+    border-radius: 3em;
+    background-color: #a7cece;    
+    padding: 20px;
+    padding-left: 80px;
+    margin: 20px;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+
+
+h1 {
+  font-family: "Emblema One", sans-serif;
+  font-size: 220%;
+  }
+
